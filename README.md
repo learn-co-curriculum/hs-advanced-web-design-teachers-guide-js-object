@@ -41,3 +41,5 @@
 + Now when we alert dog2 we see that it is an object. <b>What if we want to check the name?</b> dog2.name <b>Age? Breed?</b>
 + Now you guys are going to get some practice with this AND with the data input skills you learned yesterday (jQuery’s .val() method) with a little donut creator lab.
 
+
+<a href='https://learn.co/lessons/hs-advanced-web-design-teachers-guide-js-object' data-visibility='hidden'>View this lesson on Learn.co</a>
