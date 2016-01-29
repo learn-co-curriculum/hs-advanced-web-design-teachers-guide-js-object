@@ -42,4 +42,4 @@
 + Now you guys are going to get some practice with this AND with the data input skills you learned yesterday (jQuery’s .val() method) with a little donut creator lab.
 
 
-<a href='https://learn.co/lessons/hs-advanced-web-design-teachers-guide-js-object' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-advanced-web-design-teachers-guide-js-object' title='SWABATs'>SWABATs</a> on Learn.co and start learning to code for free.</p>
